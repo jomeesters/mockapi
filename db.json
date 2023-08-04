@@ -110,7 +110,53 @@
       "location": "Flevopark | Amsterdam",
       "startTime": "2023-06-24T12:00",
       "endTime": "2023-06-24T23:00"
-    }
+    },
+  {
+    "title": "Toffler",
+    "description": "Toffler Festival 2023",
+    "location": "Roel Langerakpark | Rotterdam",
+    "startTime": "2023-05-27T13:00",
+    "endTime": "2023-05-27T23:00",
+    "createdBy": 1,
+    "image": "https://tofflerfestival.nl/wp-content/uploads/2022/12/284131107_3168450840081930_7063419686968949126_n.jpeg",
+    "categoryIds": [
+      1,
+      2,
+      4
+    ],
+    "id": 10
+  },
+  {
+    "title": "Lowlands",
+    "description": "Lowlands Festival 2023",
+    "startTime": "2023-08-18T12:00",
+    "endTime": "2023-08-20T23:30",
+    "createdBy": 2,
+    "location": "Spijk en Bremerberg | Biddinghuizen",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Lowlands_2019.jpg",
+    "id": 11,
+    "categoryIds": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "title": "Wildeburg",
+    "description": "Wildeburg Festival 2023",
+    "startTime": "2023-07-07T12:00",
+    "endTime": "2023-07-09T23:30",
+    "location": "Kraggenburg",
+    "createdBy": 2,
+    "image": "https://3voor12.vpro.nl/.imaging/mte/3v12/opengraph/dam/3voor12/nieuws/2023/esns23/zaterdag/2017/WooHah/Wildeburg-2016---Niels-de-Vries---_DSC4971.jpg/jcr:content/Wildeburg%202016%20-%20Niels%20de%20Vries%20-%20_DSC4971.jpg",
+    "id": 12,
+    "categoryIds": [
+      1,
+      2,
+      4
+    ]
+  }
   ],
   "categories": [
     {
