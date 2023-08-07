@@ -74,7 +74,7 @@
     },
     {
       "id": 6,
-      "createdBy": 2,
+      "createdBy": 3,
       "title": "Draaimolen",
       "description": "Draaimolen Festival 2023",
       "image": "https://tilburg.com/wp-content/uploads/2023/05/draaimolen-festival-2023.jpg",
@@ -136,7 +136,7 @@
     "description": "Lowlands Festival 2023",
     "startTime": "2023-08-18T12:00",
     "endTime": "2023-08-20T23:30",
-    "createdBy": 2,
+    "createdBy": 3,
     "location": "Spijk en Bremerberg | Biddinghuizen",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Lowlands_2019.jpg",
     "id": 11,
