@@ -30,7 +30,7 @@
     },
     {
       "id": 2,
-      "createdBy": 1,
+      "createdBy": 3,
       "title": "DGTL",
       "description": "DGTL AMSTERDAM 2023",
       "image": "https://dgtl.nl/wp-content/uploads/2023/02/220416_1953_DGTL-scaled.jpg",
@@ -63,7 +63,7 @@
     },
     {
       "id": 5,
-      "createdBy": 2,
+      "createdBy": 3,
       "title": "STRAF_WERK",
       "description": "STRAF_WERK Festival 2023",
       "image": "https://apenkooi.amsterdam/wp-content/uploads/2018/09/SWF2018-Tim-Buiting.jpg",
@@ -107,7 +107,7 @@
     },
     {
       "id": 9,
-      "createdBy": 2,
+      "createdBy": 1,
       "title": "No Art",
       "description": "No Art Festival 2023",
       "image": "https://uploads-ssl.webflow.com/62822bdcba8a5547027808c8/649abe29e65dc244e9dcf11d_no-art-festival-2023.jpg",
