@@ -2,13 +2,13 @@
   "users": [
     {
       "id": 1,
-      "name": "Ignacio Doe",
-      "image": "https://global-uploads.webflow.com/5eecfecbe625d195e35b89f2/624bfb093da7d92733c001c0_Ignacio%20Villafruela%20Rodr%C3%ADguez.jpg"
+      "name": "Moodymann",
+      "image": "https://cs1.gtaall.com/screenshots/4dc09/2021-07/original/556f3995efb956eb630f2ce9b612715210f6ccae/935046-gallery4.jpg"
     },
     {
       "id": 2,
-      "name": "Jane Bennett",
-      "image": "https://global-uploads.webflow.com/5eecfecbe625d195e35b89f2/624bfb401d7131c760ca1c63_Elieska%20Lensink.jpg"
+      "name": "Peggy Gou",
+      "image": "https://www.festivalinfo.nl/img/upload/f/6/peggy_gou_9188.jpg"
     }
   ],
   "events": [
